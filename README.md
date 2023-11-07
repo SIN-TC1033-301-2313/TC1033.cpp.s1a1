@@ -25,3 +25,9 @@ Ej.- cd ../../
 - 07-Promedio (```cd assignments/07-Promedio```)
 - 08-Hipotenusa (```cd assignments/08-Hipotenusa```)
 - 09-Distancia (```cd assignments/09-Distancia```)
+  
+# Navegación - Home
+Para regresar al Home del repositorio, use:
+```
+cd /workspaces/TC1033.*
+```
